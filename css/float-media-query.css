@@ -1,0 +1,32 @@
+
+@media (min-width: 576px) {
+  
+}
+
+
+@media (min-width: 768px) {
+  
+}
+
+
+@media (min-width: 992px) {
+  .app-main-wrap .app-main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    width: 60%;
+    margin-right: var(--gutter-width);
+    justify-content: center;
+    background-color: blueviolet; 
+  }
+
+  .app-main-wrap .app-sidebar {
+    width: 25%;
+    margin-left: var(--gutter-width);
+  }
+}
+
+
+@media (min-width: 1200px) {
+  
+}
